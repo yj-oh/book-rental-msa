@@ -1,10 +1,10 @@
-package com.yjworld.boilerplate.gradle.springboot;
+package com.yjworld.bookrental;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootGradleBoilerplateApplicationTests {
+class BookRentalApplicationTests {
 
     @Test
     void contextLoads() {

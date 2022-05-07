@@ -1,1 +1,1 @@
-# springboot-gradle-boilerplate
+# book-rental-msa

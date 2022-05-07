@@ -1,12 +1,12 @@
-package com.yjworld.boilerplate.gradle.springboot;
+package com.yjworld.bookrental;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootGradleBoilerplateApplication {
+public class BookRentalApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootGradleBoilerplateApplication.class, args);
+        SpringApplication.run(BookRentalApplication.class, args);
     }
 }
